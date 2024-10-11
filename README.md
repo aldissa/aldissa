@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" >
-  <img src="[https://readme-typing-svg.demolab.com?Archivo+Black&display=swap&weight=500&size=40&pause=1000&color=494CFF&random=false&width=435&lines=MRamdhan+Irawan](https://readme-typing-svg.demolab.com?font=comic+sans&weight=500&size=40&pause=1000&color=494CFF&width=435&lines=Muhammad+Aldi)](https://git.io/typing-svg)">
+  <img src="https://readme-typing-svg.demolab.com?font=comic+sans&weight=500&size=40&pause=1000&color=494CFF&width=435&lines=Muhammad+Aldi">
   </h1>
 
 Welcome to my GitHub profile!
