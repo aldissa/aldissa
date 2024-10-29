@@ -39,10 +39,7 @@ Welcome to my GitHub profile!
   <img align="center" width="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" / >
   <img align="center" width="60" src="https://logotyp.us/file/figma.svg" / >
   <img align="center" width="50" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" / >
-### Find Me Online
 
-- 🤳 [Instagram](https://www.instagram.com/aldiis.a/)
-- 🌐 [Personal Website/Blog](on progress 🔃)
 ### :fire: My Stats :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aldissa&show_icons=true&theme=radical&hide_border=true" alt="raffimustari's GitHub stats">
@@ -55,3 +52,9 @@ Welcome to my GitHub profile!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldissa&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages">
 </p>
+
+
+### Find Me Online
+
+- 🤳 [Instagram](https://www.instagram.com/aldiis.a/)
+- 🌐 [Personal Website/Blog](on progress 🔃)
