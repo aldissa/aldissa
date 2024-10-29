@@ -44,4 +44,14 @@ Welcome to my GitHub profile!
 - 🤳 [Instagram](https://www.instagram.com/aldiis.a/)
 - 🌐 [Personal Website/Blog](on progress 🔃)
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-aldisssa&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldissa&show_icons=true&theme=radical&hide_border=true" alt="raffimustari's GitHub stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldissa&theme=radical&hide_border=true" alt="aldissa's GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldissa&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages">
+</p>
