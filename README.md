@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=comic+sans&size=40&duration=1000&pause=1000&color=494CFF&width=435&lines=Muhammad+Aldi">
 </h1>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 Welcome to my GitHub profile!
