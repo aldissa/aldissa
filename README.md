@@ -44,4 +44,4 @@ Welcome to my GitHub profile!
 - 🤳 [Instagram](https://www.instagram.com/aldiis.a/)
 - 🌐 [Personal Website/Blog](on progress 🔃)
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/aldissa
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-aldisssa&theme=dark&background=000000)](https://git.io/streak-stats)
