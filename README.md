@@ -44,7 +44,7 @@ Welcome to my GitHub profile!
 
 ### :fire: My Stats :
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldissa&show_icons=true&theme=radical&hide_border=true" alt="raffimustari's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldissa&show_icons=true&theme=radical&hide_border=true" alt="aldissa's GitHub stats">
 </p>
 
 <p align="center">
